@@ -8,7 +8,6 @@ import withReactContent from 'sweetalert2-react-content'
 
 const MySwal = withReactContent(Swal)
 
-
 let genId = 1;
 
 function App() {
@@ -30,7 +29,7 @@ function App() {
 
     if (newTask.text.length === 0) {
       // alert("Please, fill the form with your task");
-      Swal.fire({
+      MySwal.fire({
         icon: 'error',
         title: 'Oops... ',
         text: 'Please, add one task first!',
