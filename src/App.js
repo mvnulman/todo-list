@@ -71,7 +71,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Todo List</h1>
+      <h1>To Do List</h1>
       <form onSubmit={handleAddItemToList}>
         <input type="text" onChange={handleChangeInput} value={inputText} placeholder="Add your new todo..."/>
         <button className="button-add" type="submit">+</button>
