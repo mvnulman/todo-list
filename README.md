@@ -4,7 +4,8 @@
 
   <h2 align="center">To-do List</h2>
   
-  ![gif-1](https://user-images.githubusercontent.com/63374582/148805121-aee3443e-b173-4d49-8885-e1d684ac2cc8.gif)
+  <img width="2560" height="1228" alt="screencapture-69d285e9b5b2ca0106a13d76-todolist-mvn-netlify-app-2026-04-05-13_00_20" src="https://github.com/user-attachments/assets/080b6ee7-04ad-4f4e-8e70-5c009d44f442" />
+
   
 ## About
 
