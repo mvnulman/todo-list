@@ -1,8 +1,0 @@
-{
-    "env": {
-        "CLAUDE_CODE_USE_OPENAI": "1",
-        "OPENAI_BASE_URL": "https://openrouter/ai/api/v1",
-        "OPENAI_API_KEY": "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",
-        "OPENAI_MODEL": "qwen/qwen3.6-plus:free"
-    }
-}
